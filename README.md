@@ -1,1 +1,2 @@
 # qe-technical-task
+.
