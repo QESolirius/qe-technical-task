@@ -1,6 +1,6 @@
 # QE Technical Task
 
-We would like you to write a working automated UI test suite in Javascript using either Cypress or CodeceptJS.  (Or a .NET equivalent if you prefer).
+We would like you to write a working automated UI test suite in Javascript using either Cypress or CodeceptJS.  (or .NET equivalent if the role requires)
 
 There are no trick questions; we want to see your solution with well thought-out, well structured code and rounded e2e tests.
 
