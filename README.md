@@ -6,7 +6,7 @@ There are no trick questions; we want to see your solution with well thought-out
 
 ## The task
 
-On a public facing the UK Government webpage 'Calculate your holiday entitlement', please write a working automated UI e2e test suite using BDD. An example feature file has been added to this repo.
+On a public facing UK Government webpage 'Calculate your holiday entitlement', please write a working automated UI e2e test suite using BDD. An example feature file has been added to this repo.
 
 You have autonomy on this task, the only remits are that you keep to the language and tools we have mentioned, that you provide a working solution and clear instructions on how to execute your solution.
 
