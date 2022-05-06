@@ -16,12 +16,12 @@ The URL for 'Calculate your holiday entitlement': https://www.gov.uk/calculate-y
 
 ## Time allocation
 
-While there is no limit on the time you can spend on this task before the deadline we have requested. We do say you should not spend more then an a few hours completing this task. We are not asking for 1000's of tests, but we would like to see a good rounded selection. If time allows and you want too, please add in any thoughts of other testing you might do for an application such as this one.
+While there is no limit on the time you can spend on this task before the deadline we have requested. We do say you should not spend more then an a few hours completing this task. We are not asking for 1000's of tests, but we would like to see a good rounded selection. If time allows and you want too, please add in any thoughts of other testing you might do for a Public Sector application such as this one.
 
 ## Presenting/submitting your solution
 
-Please create a new private Github repository in your own account, with your working solution and share this with us @QESolirius. This is so we can review your solution and we can keep it private.
+Please create a new private Github repository in your own account, with your working solution and share this with us @QESolirius. This is so we can review your solution and we can keep it private. Please provide a thorough README.
 
 ## NB:
 
-We are aware that the technical skill of QA professionals varies greatly. The test will be trivial for some and hard for others. As such not being able to complete the entire task doesn't mean your application won't be considered. We'd just like to see how far you did get.
+We are aware that the technical skill of QA professionals varies greatly. The test will be trivial for some and hard for others. As such not being able to complete the entire task doesn't mean your application won't be considered. However this is your chance to shine, please do aim to do your best work, and good luck!
